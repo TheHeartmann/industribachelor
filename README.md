@@ -47,7 +47,7 @@ Jeg har i løpet av det siste året deltatt på en rekke Game Jams, både som pr
 
 ### Spillkomponist
 
-Jeg arbeidet som spillkomponist fra mai 2015, og startet i 2016 Sounds for Pixels med Paul Zimmermann. Som Sounds for Pixels skrev vi for en rekke mindre spill, de fleste av hvilke har enten falt fra eller fortsatt er under utvikling, men noen, slik som [Caveblazers](http://store.steampowered.com/app/452060/Caveblazers/) og [The Shortest Journey](http://gamejolt.com/games/the-shortest-journey/149463), er tilgjengelige.
+Jeg arbeidet som spillkomponist fra mai 2015, og startet i 2016 Sounds for Pixels med [Paul Zimmermann](www.paul-zimmermann.com/). Som Sounds for Pixels skrev vi for en rekke mindre spill, de fleste av hvilke har enten falt fra eller fortsatt er under utvikling, men noen, slik som [Caveblazers](http://store.steampowered.com/app/452060/Caveblazers/) og [The Shortest Journey](http://gamejolt.com/games/the-shortest-journey/149463), er tilgjengelige.
 
 Jeg trakk meg i desember 2016 fra Sounds for Pixels for å fokusere mer på programmering, men har arbeidet tett med Paul også i etterkant, og vi planlegger for øyeblikket et lite mobilspill for Android.
 
@@ -56,6 +56,7 @@ Jeg trakk meg i desember 2016 fra Sounds for Pixels for å fokusere mer på prog
 
 For å parafrasere foreleser Tomas Sandnes: Dette er den beste og kanskje eneste sjansen vi har for å komme inn i spillindustrien.
 
-Setningen over sier egentlig det meste som trengs å sies. For en som er lidenskapelig opptatt av og som har svært lyst til å jobbe med spill, så er dette en unik sjanse for å få en fot i døren.
+For en som er lidenskapelig opptatt av og som har svært lyst til å jobbe med spill, så er dette en unik sjanse for å få en fot i døren.
 
 Jeg ser altså på dette som en mulighet til å bygge kontakter, lære meg mer om spillutvikling, og få en fot inn i bransjen, samtidig som det gir meg muligheten til å jobbe på hva som må være en av Norges mest spennende arbeidsplasser.
+
