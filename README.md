@@ -33,7 +33,7 @@ Entusiastisk, åpen, og gjør aldri noe halvveis. Har en tendens til å fortape 
 
 #### Prosjekter
 
-Jeg satte i høst sammen et lite team av av studenter ved Westerdals—fra spillprogrammering, spilldesign, og 3D—samt min tidligere komponistpartner for å jobbe på et spillprosjekt. For øyeblikket er prosjektet dessverre lagt på is på bakgrunn av stort trykk av skoleoppgaver, men det er ikke umulig at det blir tatt opp igjen senere.
+Jeg satte i høst sammen et lite team av av studenter ved Westerdals—fra spillprogrammering, spilldesign, og 3D-grafikk—samt min tidligere komponistpartner for å jobbe på et spillprosjekt. For øyeblikket er prosjektet dessverre lagt på is på bakgrunn av stort trykk av skoleoppgaver, men det er ikke umulig at det blir tatt opp igjen senere.
 
 På dette prosjektet ble jeg satt til å være ansvarlig for kameraet og for karakterkontrolleren. Målet er å få disse to assetene til et punkt hvor de kan legges ut på Unity Asset Store, men det er nok en liten stund til de er der helt ennå. Kameraet kan finnes i [dette repoet](http://github.com/theheartmann/), hvor karakteren bruker en litt upolert versjon av karakterkontrolleren.
 
