@@ -47,7 +47,7 @@ Jeg har i løpet av det siste året deltatt på en rekke Game Jams, både som pr
 
 ### Spillkomponist
 
-Jeg arbeidet som spillkomponist fra mai 2015, og startet i 2016 Sounds for Pixels med [Paul Zimmermann](www.paul-zimmermann.com/). Som Sounds for Pixels skrev vi for en rekke mindre spill, de fleste av hvilke har enten falt fra eller fortsatt er under utvikling, men noen, slik som [Caveblazers](http://store.steampowered.com/app/452060/Caveblazers/) og [The Shortest Journey](http://gamejolt.com/games/the-shortest-journey/149463), er tilgjengelige.
+Jeg arbeidet som spillkomponist fra mai 2015, og startet i 2016 Sounds for Pixels med [Paul Zimmermann](http://www.paul-zimmermann.com/). Som Sounds for Pixels skrev vi for en rekke mindre spill, de fleste av hvilke har enten falt fra eller fortsatt er under utvikling, men noen, slik som [Caveblazers](http://store.steampowered.com/app/452060/Caveblazers/) og [The Shortest Journey](http://gamejolt.com/games/the-shortest-journey/149463), er tilgjengelige.
 
 Jeg trakk meg i desember 2016 fra Sounds for Pixels for å fokusere mer på programmering, men har arbeidet tett med Paul også i etterkant, og vi planlegger for øyeblikket et lite mobilspill for Android.
 
