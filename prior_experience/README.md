@@ -24,3 +24,9 @@ I am also working on recreating certain features that I have found to be particu
 ### Game Jams
 
 Over the course of the last year, I have participated in a number of game jams, both as a programmer and as a composer. Of particular note is Audio Game Jam, where teams develop games for visually impaired players, Global Gam Jam 2017, and InnoGames Jam 2016 (at Gamescom in Germany), where my team, WoodFæry Interactive, ran off with one of the spots for [Best Overall Games](https://press.innogames.com/innogames-gamescom-game-jam-births-39-impressive-projects) for *Haywire*.
+
+## Games Composer
+
+Before starting my degree in game programming, I graduated from the Liverpool Institute for Performing Arts with a BA in music, focusing on performance and composition, and have been writing for games since around August 2014.
+In January 2016, [Paul Zimmermann](http://www.paul-zimmermann.com/) and I founded Sounds for Pixels. As Sounds for Pixels, we created music and sfx for a variety of indie games, such as [Caveblazers](http://store.steampowered.com/app/452060/Caveblazers/) (who recently picked up a publisher) and [The Shortest Journey](http://gamejolt.com/games/the-shortest-journey/149463).
+I left Sounds for Pixels in December to focus more on programming, but have kept a close ties to Paul, and we are currently in the planning phase of a little Android game.
