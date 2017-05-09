@@ -23,7 +23,7 @@ I am also working on recreating certain features that I have found to be particu
 
 ### Game Jams
 
-Over the course of the last year, I have participated in a number of game jams, both as a programmer and as a composer. Of particular note is Audio Game Jam, where teams develop games for visually impaired players, Global Gam Jam 2017, and InnoGames Jam 2016 (at Gamescom in Germany), where my team, WoodFæry Interactive, ran off with one of the spots for [Best Overall Games](https://press.innogames.com/innogames-gamescom-game-jam-births-39-impressive-projects) for *Haywire*.
+Over the course of the last year, I have participated in a number of game jams, both as a programmer and as a composer. Of particular note is Audio Game Jam, where teams develop games for visually impaired players, Global Gam Jam 2017 (scripts available [here](https://github.com/clemarescx/GGJ2017-fatladysings)), and InnoGames Jam 2016 (at Gamescom in Germany), where my team, WoodFæry Interactive, ran off with one of the spots for [Best Overall Games](https://press.innogames.com/innogames-gamescom-game-jam-births-39-impressive-projects) for *Haywire*.
 
 ## Games Composer
 
